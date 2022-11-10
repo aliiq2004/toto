@@ -1,1 +1,1 @@
-worker: python3 b.py
+web: Whisper-Mica.php
