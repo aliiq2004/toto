@@ -1,1 +1,1 @@
-web: Whisper-Mica.php
+web: vendor/bin/heroku-php-apache2
