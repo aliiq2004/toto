@@ -1,3 +1,0 @@
-#!/bin/bash
-apt install screen
-python3 b.py
